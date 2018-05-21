@@ -1,0 +1,183 @@
+
+body {
+    background-color: #656565;
+}
+p {
+    font-family: 'EB Garamond', serif;
+   
+}
+
+fond {
+    height: 1000px;
+}
+.banniere {
+    
+    height: 50px;
+    background-color: #FDFDFD  ;
+    font-size: 20px;
+}
+
+.colorban {
+    color: darkblue;
+}
+.ba {
+    
+    background-color:#695998  ;
+    height: 1000px;
+    top: -50px;
+    
+}
+
+.taille1 { text-align: center;
+    font-size: 45px;
+    color: white;
+}
+
+.position-relative { 
+    top:250px;
+    
+    
+}
+
+.taille2{ text-align: center;
+    font-size: 25px;
+    color: #695998;
+    
+}
+.position-relative2 {
+     top: -15px;
+}
+
+.ba2 {
+    
+    background-color:whitesmoke;
+    height: 500px;
+    
+    
+}
+
+.ba3 {
+    
+    background-color:#6F6F6F  ;
+    height: 500px;
+    
+    
+}
+
+.taille3{ text-align: center;
+    font-size: 25px;
+    color: white;
+    
+}
+
+
+
+.ba4 {
+    
+    background-color:#FFFFFF  ;
+    height: 800px;
+    
+    
+}
+
+.taille4{ text-align: center;
+    font-size: 30px;
+    color:#695998;
+    
+}
+.ba5 {
+    
+    background-color:#FFFFFF  ;
+    height: 800px;
+    
+    
+}
+
+.taille5{ text-align: center;
+    font-size: 30px;
+    color: #695998;
+    
+    
+}
+
+.ba6 {
+    
+    background-color:#A7FFB3    ;
+    height: 100px;
+    
+    
+}
+
+.taille6{ 
+    font-size: 23px;
+    text-align: center;
+    color: #0F0F0F  ;
+    
+}
+
+.position-relative3 {
+    top: 30px;
+}
+
+
+.ba7 {
+    
+    background-color:#4D4D4D  ;
+    height:500px;
+    
+    
+}
+
+.taille7{ 
+    font-size: 15px;
+    text-align: center;
+    
+}
+
+.ba8 { height: 150px;}
+
+.ba9 {
+    position: absolute;
+     bottom: -3290px;
+    height: 100px;
+    background-color: #262626  ;
+    text-align: right;
+    
+}
+
+.taille8{
+    
+    color: white;
+    font-size: 15px;
+    padding-top: 70px;
+}
+
+.ba10{
+    height: 30px;
+}
+
+.ba12 {
+    height: 75px;
+}
+
+.ba13 {
+    height: 150px;
+}
+
+.animation {
+    
+    position: relative;
+    bottom: 750px;
+}
+
+
+.img5 {
+    
+
+}
+
+.assistant {
+    
+    align-content: center;
+    position: relative;
+}
